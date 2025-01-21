@@ -100,7 +100,7 @@ Host App: The Host App is started using the dev script:
 
 ```json
 "dev": "vite"
-
+```
 API Key: Ensure that the VITE_COHERE_API_KEY in the .env file is set correctly to enable AI functionalities.
 
 Author ✍️
