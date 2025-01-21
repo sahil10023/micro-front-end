@@ -67,9 +67,11 @@ cd ..
 
 This will start the applications on the following ports:
 
+```bash
 Chat App: http://localhost:5001
 Email App: http://localhost:5002
 Host App: http://localhost:5000
+```
 How It Works 🔧
 Module Federation: The Host App dynamically loads the Chat App and Email App as remote components using Module Federation. The configuration in the Host App includes:
 
